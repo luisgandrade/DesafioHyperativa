@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHyperativa", "DesafioHyperativa\DesafioHyperativa.csproj", "{ACE0B471-058A-4D53-9CCB-F2BB61D209C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHyperativa.CamadaDados", "DesafioHyperativa.CamadaDados\DesafioHyperativa.CamadaDados.csproj", "{59E741EB-7786-4C00-8098-44F6E191AD04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioHyperativa.Servicos", "DesafioHyperativa.Servicos\DesafioHyperativa.Servicos.csproj", "{DA4E693A-06F6-4CF2-8B51-D3F75B8BF674}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{65D26DBF-D1BF-4955-8794-EE0941B4DA82}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioHyperativa.Servicos.Testes", "DesafioHyperativa.Servicos.Testes\DesafioHyperativa.Servicos.Testes.csproj", "{823C3B21-7A2D-4980-8580-8B63452D8413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE0B471-058A-4D53-9CCB-F2BB61D209C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE0B471-058A-4D53-9CCB-F2BB61D209C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE0B471-058A-4D53-9CCB-F2BB61D209C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE0B471-058A-4D53-9CCB-F2BB61D209C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E741EB-7786-4C00-8098-44F6E191AD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E741EB-7786-4C00-8098-44F6E191AD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E741EB-7786-4C00-8098-44F6E191AD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E741EB-7786-4C00-8098-44F6E191AD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4E693A-06F6-4CF2-8B51-D3F75B8BF674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4E693A-06F6-4CF2-8B51-D3F75B8BF674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4E693A-06F6-4CF2-8B51-D3F75B8BF674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4E693A-06F6-4CF2-8B51-D3F75B8BF674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823C3B21-7A2D-4980-8580-8B63452D8413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823C3B21-7A2D-4980-8580-8B63452D8413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823C3B21-7A2D-4980-8580-8B63452D8413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823C3B21-7A2D-4980-8580-8B63452D8413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34ECE02B-BBFA-46C5-A64D-2E9D108E3845}
+	EndGlobalSection
+EndGlobal
